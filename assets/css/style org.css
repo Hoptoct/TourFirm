@@ -69,7 +69,6 @@ p {
 
 ul.menu {
     float: right;
-    margin-right: -32px;
 }
 
 ul.menu li {
@@ -86,7 +85,7 @@ ul.menu li a {
     font: normal 100% 'trebuchet ms', sans-serif;
     display: block;
     height: 20px;
-    padding: 6px 42px 5px 28px; 
+    padding: 6px 35px 5px 28px;
     color: #fff;
     text-decoration: none;
 }
@@ -123,9 +122,6 @@ ul.menu li a:hover {
 
 .post {
     font-size: 0.8em;
-    margin-top: -11px;
-    margin-left: -53px;
-    margin-right: -101px;
 }
 
 .post h2 {
@@ -147,9 +143,7 @@ ul.post1 li {
     margin: 10px 0px 20px 35px;
 
 }
-.Dro {
-    background-color: #68b7d5;
-}
+
 .Dro_h3_block {
     text-align:center;
     margin-top: 2.5%;
@@ -177,8 +171,8 @@ width: 45%;
 .image {
   height: 150px;
   width: 600px;
-  margin-left: 111px;
-  
+  margin-left: 50px;
+  background-color: #f2f2f2;
     
     
 }
