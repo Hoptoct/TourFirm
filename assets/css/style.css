@@ -8,7 +8,9 @@ body {
     background-color: #fff;
     color: #555;
     background-image: https: //million-wallpapers.ru/wallpapers/6/23/337865106824502.jpg;
-    background-attachment: fixed;
+        background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 p {
@@ -87,7 +89,7 @@ ul.menu li a {
     font: bold 14px Arial;
     display: block;
     height: 20px;
-    padding: 6px 42px 5px 28px; 
+    padding: 6px 42px 5px 28px;
     color: rgb(32, 142, 233);
     text-decoration: none;
 }
@@ -106,7 +108,7 @@ ul.menu li a:hover {
     width: 1020px;
     overflow: hidden;
     margin: 10px auto 0 auto;
-    background-color:#cfecf0;
+    background-color: #cfecf0;
     border: solid 1px;
     border-top-left-radius: 47px;
 }
@@ -115,7 +117,7 @@ ul.menu li a:hover {
 .content {
     text-align: left;
     width: 620px;
-    padding: 11px 101px 0 53px;  
+    padding: 11px 101px 0 53px;
     float: left;
     margin-left: 22px;
 }
@@ -129,7 +131,10 @@ ul.menu li a:hover {
     margin-top: -11px;
     margin-left: -71px;
     margin-right: -101px;
+    height: 1300px;
+    width: 791px;
 }
+
 
 .post h2 {
     font: 21px/24px "RotondaCRegular", Arial, Helvetica, sans-serif;
@@ -150,8 +155,9 @@ ul.post1 li {
     margin: 10px 0px 20px 35px;
 
 }
+
 .Dro {
-    background-color:#e3f0f6;
+    background-color: #e3f0f6;
     height: 200px;
 }
 
@@ -167,13 +173,13 @@ ul.post1 li {
 
 
 .Dro h3 {
-    text-align:center;
+    text-align: center;
     margin-top: 2.5%;
     font-size: 19px;
     line-height: 20px;
     font-weight: 600;
     letter-spacing: normal;
-    
+
 }
 
 .Dro2 {
@@ -182,24 +188,23 @@ ul.post1 li {
     height: 830px;
 }
 
-.Dro2 a {
-    
-}
+.Dro2 a {}
 
 .Dro2 img {
     float: left;
     margin-right: 2%;
     width: 25%;
     margin-top: 40px;
-    margin-left: 15px; 
-      
+    margin-left: 15px;
+
 }
+
 .image {
-  height: 150px;
-  width: 800px;
-  margin-left: 6px;
-   
-   
+    height: 150px;
+    width: 800px;
+    margin-left: 6px;
+
+
 }
 
 .img1 img {
@@ -207,9 +212,10 @@ ul.post1 li {
     float: left;
     padding: 3%;
     margin-left: 44px;
-    
-    
+
+
 }
+
 .text {
     width: 118px;
     float: left;
@@ -218,14 +224,15 @@ ul.post1 li {
     margin: 118px -78px 0px -205px;
     text-align: center;
 }
-    
+
 }
 
 .material img {
     width: 400px;
     margin-left: 180px;
-    
+
 }
+
 /* Left Block Menu */
 .sidebar_container {
     float: left;
@@ -271,7 +278,7 @@ ul.menublock li a {
     font: 14px Arial;
     color: #015aae;
     text-decoration: none;
-    
+
 }
 
 ul.menublock li.selected a {
@@ -297,7 +304,31 @@ ul.menublock li a:hover {
     background: url(/skin/ru/img/bg_flag.gif) no-repeat;
 }
 
+/* Contact Page */
+.Dron {
+    background-color: #e3f0f6;
+    height: 200px;
+    padding: 1px 0px 0px;
+}
+
+.form {
+    padding: 120px 0px 0px 153px;
+    margin-top: 85px;
+    margin-left: 93px;
+    padding: 32px 0px 0px 65px;
+    width: 546px;
+    height: 81px;
+    background-color: aqua;
+}
+.form p {
+    text-align: center;
+}
+
+
+
+
 /* FOOTER Menu */
+
 
 .footer {
     width: 100%;
