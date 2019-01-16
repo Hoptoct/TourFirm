@@ -8,7 +8,7 @@ body {
     background-color: #fff;
     color: #555;
     background-image: https: //million-wallpapers.ru/wallpapers/6/23/337865106824502.jpg;
-        background-attachment: fixed;
+    background-attachment: fixed;
 }
 
 p {
@@ -151,7 +151,7 @@ ul.post1 li {
 
 }
 .Dro {
-    background-color:#efc7ab;
+    background-color:#e3f0f6;
     height: 200px;
 }
 
@@ -206,16 +206,17 @@ ul.post1 li {
     width: 10%;
     float: left;
     padding: 3%;
-    margin-left: 50px;
+    margin-left: 44px;
     
     
 }
 .text {
-    width: 110px;
+    width: 118px;
     float: left;
     white-space: normal;
     padding: 5px 11%;
     margin: 118px -78px 0px -205px;
+    text-align: center;
 }
     
 }
