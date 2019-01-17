@@ -8,7 +8,7 @@ body {
     background-color: #fff;
     color: #555;
     background-image: https: //million-wallpapers.ru/wallpapers/6/23/337865106824502.jpg;
-        background-attachment: fixed;
+    background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -111,7 +111,9 @@ ul.menu li a:hover {
     background-color: #cfecf0;
     border: solid 1px;
     border-top-left-radius: 47px;
+    
 }
+
 
 /* Main content Page */
 .content {
@@ -134,7 +136,6 @@ ul.menu li a:hover {
     height: 1300px;
     width: 791px;
 }
-
 
 .post h2 {
     font: 21px/24px "RotondaCRegular", Arial, Helvetica, sans-serif;
@@ -306,23 +307,49 @@ ul.menublock li a:hover {
 
 /* Contact Page */
 .Dron {
-    background-color: #e3f0f6;
+    background-color: #035db0;
     height: 200px;
     padding: 1px 0px 0px;
+    width: 792px;
 }
 
 .form {
-    padding: 120px 0px 0px 153px;
-    margin-top: 85px;
+    margin-top: 65px;
     margin-left: 93px;
     padding: 32px 0px 0px 65px;
     width: 546px;
     height: 81px;
     background-color: aqua;
 }
-.form p {
+.form h3 {
     text-align: center;
+    padding: 0 0 20px 0;
+    line-height: 1.7em;
+    margin-right: 40px;
 }
+.form1 {
+    font-size: 1.2em;
+    color: #555;
+}    
+.form1 p {
+    text-align: left;
+    margin-top: 30px;
+    padding-right: 7%;
+    margin-left: 20px;
+}
+
+.Dron img {
+    margin-right: 30px;
+    float: left;
+    width: 39%;
+    margin-top: 5px;
+    margin-left: 20px;
+    padding: 0%;
+    border: solid 10px #e4a9b6;
+    border-top-left-radius: 8%;
+    border-top-right-radius: 7%;
+}
+
 
 
 
