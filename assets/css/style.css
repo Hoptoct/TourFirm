@@ -7,8 +7,8 @@ body {
     font-size: 1.2em;
     background-color: #fff;
     color: #555;
-    background-image: https: //million-wallpapers.ru/wallpapers/6/23/337865106824502.jpg;
-    background-attachment: fixed;
+    background-image: https: //bigpicture.ru/wp-content/uploads/2013/07/motivation21.gif;
+        background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -111,7 +111,17 @@ ul.menu li a:hover {
     background-color: #cfecf0;
     border: solid 1px;
     border-top-left-radius: 47px;
-    
+
+}
+
+.site_content1 {
+    width: 1020px;
+    overflow: hidden;
+    margin: 10px auto 0 auto;
+    background-color: #d751765e;
+    border: solid 1px;
+    border-top-left-radius: 47px;
+
 }
 
 
@@ -240,7 +250,8 @@ ul.post1 li {
     width: 224px;
 }
 
-.sidebar {
+
+.sidebar1 {
     float: left;
     padding: 5%;
     width: 200px;
@@ -249,6 +260,13 @@ ul.post1 li {
     border-top-left-radius: 45px;
     background-color: #9ac8df;
 }
+
+.sidebar1 h1 {
+    font: normal 100% 'trebuchet ms', sans-serif;
+    color: #0307b0c9;
+    margin-left: 14px;
+}
+
 
 
 .sidebar h1 {
@@ -307,43 +325,65 @@ ul.menublock li a:hover {
 
 /* Contact Page */
 .Dron {
-    background-color: #035db0;
+    background-color: #be0d4666;
     height: 200px;
     padding: 1px 0px 0px;
     width: 792px;
 }
 
 .form {
-    margin-top: 65px;
-    margin-left: 93px;
+    border-radius: 5px;
+    margin-top: 46px;
+    margin-left: 92px;
     padding: 32px 0px 0px 65px;
     width: 546px;
     height: 81px;
-    background-color: aqua;
+    background-color: rgb(239, 199, 171);
 }
+
 .form h3 {
     text-align: center;
     padding: 0 0 20px 0;
     line-height: 1.7em;
-    margin-right: 40px;
+    margin-right: 68px;
+    color: #8c767a
 }
+
 .form1 {
+    margin-top: -8px;
+    margin-left: -19px;
     font-size: 1.2em;
     color: #555;
-}    
+}
+
 .form1 p {
+    font-size: 1.5em;
     text-align: left;
-    margin-top: 30px;
+    margin-top: 67px;
     padding-right: 7%;
-    margin-left: 20px;
+    margin-left: 54px;
+    color: black;
+    font-family: 'Caveat', cursive;
 }
 
 .Dron img {
     margin-right: 30px;
     float: left;
     width: 39%;
-    margin-top: 5px;
-    margin-left: 20px;
+    margin-top: 9px;
+    margin-left: 54px;
+    padding: 0%;
+    border: solid 10px #e4a9b69e;
+    border-top-left-radius: 8%;
+    border-top-right-radius: 7%;
+}
+
+.camel img {
+    Margin-right: 30px;
+    float: left;
+    width: 39%;
+    margin-top: 55px;
+    margin-left: 208px;
     padding: 0%;
     border: solid 10px #e4a9b6;
     border-top-left-radius: 8%;
