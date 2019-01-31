@@ -143,10 +143,20 @@ ul.menu li a:hover {
 .post {
     font-size: 0.8em;
     margin-top: -11px;
-    margin-left: -71px;
+    margin-left: -74px;
     margin-right: -101px;
-    height: 1300px;
-    width: 791px;
+    height: 1600px;
+    width: 897px;
+    background-color: #29180b9e;
+}
+.post2 {
+    font-size: 0.8em;
+    margin-top: -11px;
+    margin-left: -74px;
+    margin-right: -101px;
+    height: 1600px;
+    width: 897px;
+    
 }
 
 .post h2 {
@@ -201,7 +211,7 @@ ul.post1 li {
     margin-left: -2px;
     height: 1300px;
     width: 894px;
-    background-color: #29180b9e;
+   
 }
 
 .Dro2 a {}
